@@ -1,13 +1,12 @@
-# Md Rashedul Islam - Research & Professional Website
+# Md Rashedul Islam — Research & Professional Portfolio
 
-Final portfolio version prepared for GitHub Pages.
+GitHub Pages-ready static site. Upload all files in this folder to the root of the existing GitHub Pages repository.
 
-## Files to upload to the repository root
-- index.html
-- styles.css
-- script.js
-- profile-photo.jpg
-- Md_Rashedul_Islam_Resume.pdf
-- Md_Rashedul_Islam_Updated_Resume.docx
+## Main files
+- `index.html`
+- `styles.css`
+- `script.js`
+- `Md_Rashedul_Islam_Resume.pdf`
+- site images (`*.jpg`)
 
-The site includes verified professional links and selected publications/DOIs from supplied research files.
+The site intentionally separates scholarly publications from media coverage and professional recognition.

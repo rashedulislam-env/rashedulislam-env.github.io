@@ -1,12 +1,25 @@
-# Md Rashedul Islam — Research & Professional Portfolio
+# Md Rashedul Islam — Multi-page Professional Website
 
-GitHub Pages-ready static site. Upload all files in this folder to the root of the existing GitHub Pages repository.
+Deploy-ready static website for GitHub Pages.
 
-## Main files
-- `index.html`
-- `styles.css`
-- `script.js`
-- `Md_Rashedul_Islam_Resume.pdf`
-- site images (`*.jpg`)
+## Main pages
+- index.html — Home
+- about.html — About
+- research.html — Research
+- publications.html — Publications
+- experience.html — Professional experience + custom standards badges
+- innovation.html — Innovation / future verified patent information
+- insights.html — 15-article editorial roadmap
+- consulting.html — Independent consulting
+- engagement.html — Conferences, recognition, media, fieldwork
+- contact.html — Contact
 
-The site intentionally separates scholarly publications from media coverage and professional recognition.
+## Important
+- Standards badges are custom text cards, not official logos.
+- Every standards badge links to the relevant official site.
+- Insight cards are marked as editorial drafts until each article is written and reviewed.
+- The Innovation page deliberately avoids unverified patent/publication numbers or grant claims.
+- Google Scholar citation metrics are not hard-coded; use the live Scholar link for current metrics.
+
+## GitHub Pages
+Upload the contents of this folder to the repository root. Keep the existing `CNAME` file if your repository already has one for `mdrashedulislam.com`.
